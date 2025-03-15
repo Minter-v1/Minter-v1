@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:fa709a,100:fef9d7&height=300&section=header&text=Minter&fontSize=90" />
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:fa709a,100:fef9d7&height=300&section=header&text=Say,%20Minter%20!&fontSize=90" />
 </p>
 
 <h1 align="center"> Welcom !💫 I am Minter ! 🍀</h1>
