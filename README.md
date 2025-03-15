@@ -1,7 +1,8 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fa709a,100:fee140&height=300&section=header&text=capsule%20render&fontSize=90" />
+</p>
 
-<!--
-**Minter-v1/Minter-v1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Welcom !💫 I am Minter ! 🍀</h1>
 
 Here are some ideas to get you started:
 
