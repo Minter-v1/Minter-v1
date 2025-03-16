@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
+
 <h3>🛠️Tools</h3>
 
 <div>
@@ -26,6 +27,8 @@
 <img  src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+---
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
