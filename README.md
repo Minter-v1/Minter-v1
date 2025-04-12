@@ -44,13 +44,24 @@
 <img  src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
----
 
+# 📝Paper
+| **Date** | **Conference** | **Title** | **Author** |**Award**|
+|--|--|--|--|--|
+| 24.10.11 | 2024 HCLT | Korean Benchmark for Science and Technology Information in Specialized Fields | Minji Lee (1st) |🏆Best Paper|
+| 24.11 | 2024 ICCE | Korean News Summarization with Contrasts by Augmenting Counterfactual Data | Minji Lee (1st) | - |
+
+# 👩‍💻Research
+|**Period**|**Agency**|**Title**|**Role**|**Note**|
+|--|--|--|--| -- |
+|25.05.15 ~ 25.11.30 |한국과학기술정보연구원(KiSTi)|Developing Evaluation Data and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)| 데이터 생성 및 설계 / 보고서 작성|
+
+#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
----
+ 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{Minter-v1}?pet-id=1" width="1000" height="120"/>
 </a>
