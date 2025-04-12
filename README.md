@@ -1,17 +1,15 @@
-
 <p align="center">
 <img 
   src="https://capsule-render.vercel.app/api?type=blur&color=0:fa709a,100:fef9d7&height=300&section=header&text=Say,%20Minter%20!&fontSize=90" />
 </p>
 
-<!-- <h1 align="center"> Welcom !💫 I am Minter ! 🍀</h1> -->
-
 # Intro
-- 안녕하세요 ! 컴퓨터공학과 3학년 재학 중인 **❤️‍🩹Minter🫶**입니다.
-- 저는 AI를 활용할 줄 아는 풀스택 개발자를 추구합니다.
-- iOS, AOS , 크로스 플랫폼 개발 관련 앱개발에 흥미가..?🤭
-- 요즘은 연구는 하지 않고, 개발자가 되어보려 노력 중입니다.
-# 
+- 환영합니다 ! 저는 컴퓨터공학과에 재학 중인 **❤️‍🩹Minter🤍**입니다.
+- 저는 AI를 활용하는 풀스택 개발자를 추구합니다.
+- iOS, AOS, 크로스플랫폼 어플리케이션 개발에 흥미가..?🤭
+- 요즘은 연구는 하지 않고 **💻개발**에 몰두하고 있습니다.
+#
+  
 <h3>✏️I’m currently learning</h3>
 <div>
 <img style="display:inline-block;" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -50,27 +48,29 @@
 <img  src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 <img  src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img  src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 
-# 📝Paper
-| **Date** | **Conference** | **Title** | **Author** |**Award**|
+# Publications
+|**Date**|**Title**|**Conference**|**Author**|**Award**|
 |--|--|--|--|--|
-| 24.10.11 | 2024 HCLT | Korean Benchmark for Science and Technology Information in Specialized Fields | Minji Lee (1st) |🏆Best Paper|
-| 24.11 | 2024 ICCE | Korean News Summarization with Contrasts by Augmenting Counterfactual Data | Minji Lee (1st) | - |
+|24.10.11 |Korean Benchmark for Science and Technology Information in Specialized Fields|2024 HCLT|Minji Lee(1st)|🏆Best Paper|
+|24.11.03 |Korean News Summarization with Contrasts by Augmenting Counterfactual Data|2024 ICCE-Asia|Minji Lee(1st)||
 
-# 👩‍💻Research
+# Research
 |**Period**|**Agency**|**Title**|**Role**|**Note**|
-|--|--|--|--| -- |
-|25.05.15 ~ 25.11.30 |한국과학기술정보연구원(KiSTi)|Developing Evaluation Data and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)| 데이터 생성 및 설계 / 보고서 작성|
+|--|--|--|--|--|
+|24.05.15 ~ 24.11.30|한국과학기술정보연구원(KiSTi)|Developing Evaluation Dat and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)|데이터 설계 및 생성, 보고서 작성|
 
-#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
- 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Minter-v1}?pet-id=1" width="1000" height="120"/>
+---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Minter-v1&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Minter-v1"
+  width="600"
+  height="300"
+/>
 </a>
