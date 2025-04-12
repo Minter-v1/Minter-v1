@@ -1,9 +1,17 @@
+
 <p align="center">
 <img 
   src="https://capsule-render.vercel.app/api?type=blur&color=0:fa709a,100:fef9d7&height=300&section=header&text=Say,%20Minter%20!&fontSize=90" />
 </p>
 
-<h1 align="center"> Welcom !💫 I am Minter ! 🍀</h1>
+<!-- <h1 align="center"> Welcom !💫 I am Minter ! 🍀</h1> -->
+
+# Intro
+- 안녕하세요 ! 컴퓨터공학과 3학년 재학 중인 **❤️‍🩹Minter🫶**입니다.
+- 저는 AI를 활용할 줄 아는 풀스택 개발자를 추구합니다.
+- iOS, AOS , 크로스 플랫폼 개발 관련 앱개발에 흥미가..?🤭
+- 요즘은 연구는 하지 않고, 개발자가 되어보려 노력 중입니다.
+# 
 <h3>✏️I’m currently learning</h3>
 <div>
 <img style="display:inline-block;" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
