@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+#
 
 # Publications
 |**Date**|**Title**|**Conference**|**Author**|**Award**|
@@ -60,13 +61,15 @@
 # Research
 |**Period**|**Agency**|**Title**|**Role**|**Note**|
 |--|--|--|--|--|
-|24.05.15 ~ 24.11.30|한국과학기술정보연구원(KiSTi)|Developing Evaluation Dat and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)|데이터 설계 및 생성, 보고서 작성|
+|24.05.15 ~ 24.11.30|한국과학기술정보연구원(KiSTi)|Developing Evaluation Data and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)|데이터 설계 및 생성, 보고서 작성|
 
+#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
----
+#
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Minter-v1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Minter-v1"
