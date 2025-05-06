@@ -7,7 +7,7 @@
 - 환영합니다 ! 저는 컴퓨터공학과에 재학 중인 **❤️‍🩹Minter🤍**입니다.
 - 저는 AI를 활용하는 풀스택 개발자를 추구합니다.
 - iOS, AOS, 크로스플랫폼 어플리케이션 개발에 흥미가..?🤭
-- 요즘은 연구는 하지 않고 **💻개발**에 몰두하고 있습니다.
+
 #
   
 <h3>✏️I’m currently learning</h3>
@@ -62,7 +62,7 @@
 |**Date**|**Title**|**Conference**|**Author**|**Award**|
 |--|--|--|--|--|
 |24.10.11 |Korean Benchmark for Science and Technology Information in Specialized Fields|2024 HCLT|Minji Lee(1st)|🏆Best Paper|
-|24.11.03 |Korean News Summarization with Contrasts by Augmenting Counterfactual Data|2024 ICCE-Asia|Minji Lee(1st)||
+|24.11.03 |Korean News Summarization with Contrasts by Augmenting Counterfactual Data|2024 ICCE-Asia|Minji Lee(1st)|
 
 # Research
 |**Period**|**Agency**|**Title**|**Role**|**Note**|
