@@ -74,8 +74,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
 </section>
-#
 
+
+<sectino align='center'>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Minter-v1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Minter-v1"
@@ -83,5 +84,6 @@
   height="300"
 />
 </a>
+</sectino>
 
 
