@@ -61,6 +61,7 @@
 |--|--|--|--|--|
 |24.10.11 |Korean Benchmark for Science and Technology Information in Specialized Fields|2024 HCLT|Minji Lee(1st)|🏆Best Paper|
 |24.11.03 |Korean News Summarization with Contrasts by Augmenting Counterfactual Data|2024 ICCE-Asia|Minji Lee(1st)|
+|25.11.21|대규모 언어 모델을 활용한 어휘력 맞춤형 뉴스 요약 플랫폼 개발|2025 추계통신학회|Minji Lee(1st)|장려상|
 
 # Research
 |**Period**|**Agency**|**Title**|**Role**|**Note**|
