@@ -75,13 +75,13 @@
 |--|--|--|--|--|
 |24.05.15 ~ 24.11.30|한국과학기술정보연구원(KiSTi)|Developing Evaluation Data and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)|데이터 설계 및 생성, 보고서 작성|
 
-#
+<div align='center'>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
-
+</div
 
 
 <section align='center'>
