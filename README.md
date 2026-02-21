@@ -1,34 +1,9 @@
 <p align="center">
 <img 
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:fa709a,100:fef9d7&height=300&section=header&text=Say,%20Minter%20!&fontSize=90" />
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:fa709a,100:fef9d7&height=300&section=header&text=Minter's%20Space&fontSize=90" />
 </p>
 
 
-#
-  
-<h3>✏️I’m currently learning</h3>
-<div>
-<img style="display:inline-block;" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
-  <img style="display:inline-block;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img style="display:inline-block;" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-  	<img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
-    
-</div>
 
 <h3>💻Tech Stack</h3>
 <p>
@@ -74,7 +49,7 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
 
-#
+<section align="center">
 
 # Publications
 |**Date**|**Title**|**Conference**|**Author**|**Award**|
@@ -83,10 +58,46 @@
 |24.11.03 |Korean News Summarization with Contrasts by Augmenting Counterfactual Data|2024 ICCE-Asia|Minji Lee(1st)|
 |25.11.21|대규모 언어 모델을 활용한 어휘력 맞춤형 뉴스 요약 플랫폼 개발|2025 추계통신학회|Minji Lee(1st)|장려상|
 
-# Research
-|**Period**|**Agency**|**Title**|**Role**|**Note**|
-|--|--|--|--|--|
+# Research & Project
+|**Period**|**Agency**|**Title**|**Role**|**Description**|**Note**|
+|:--|:--|:--|:--|:--|:--|
 |24.05.15 ~ 24.11.30|한국과학기술정보연구원(KiSTi)|Developing Evaluation Data and Metrics for Science and Technology Information specific Large Language Models|참여 연구원(Researcher)|데이터 설계 및 생성, 보고서 작성|
+|25.03.01 ~ 25.12.31|국립한밭대학교/대전광역시 유성구청|유성구청 리빙랩 프로젝트: 주민 조회 자동화 프로그램 개발|PM, 개발자|시스템 설계 및 개발|🏆 최우수상|
+|25.05.01 ~ 25.11.30|대전광역시|퍼블릭이즈 치매팀: 기억 MOA 플랫폼 개발|개발 총괄 및 인프라 설계|프론트,백엔드 개발 총괄, NCP 인프라 설계|
+|25.08.01 ~ 25.12.31|스마트 뉴비, 국립한밭대학교 3D 프린팅 연구소|연구소 웹사이트 제작|개발자|프론트엔드 개발,<br/>서버 사이드 작업 보조|https://hbnu3dp.com/|
+|25.10.01 ~ 25.11.30|교내 활동|연합학습을 활용한 피부질환 애플리케이션 개발|PM, 개발 총괄|연합 학습 아키텍쳐 설계 및 애플리케이션 개발|
+|26.01.12 ~ 26.01.23|국립한밭대학교 & 네이버클라우드|Global DNS를 활용한 무중단 인프라 설계|인프라 설계|GCP 인프라 설계, CI 구축, 슬랙 봇 생성|🏆 프로젝트 1위|
+
+
+
+# Certification
+<div align="center">
+  
+|Date|Title|
+|--------|-----|
+|2025|NCA(NAVER Cloud Platform Certified Associate)|
+|2026|NCP(NAVER Cloud Platform Certified Professional)|
+|2026 예정|정보처리기사|
+|2026 예정|빅데이터분석기사|
+|2026 예정|SQLD|
+|2026 예정|리눅스마스터 1급|
+|2026 예정|네트워크관리사 2급|
+
+</div>
+
+# Diploma
+
+<div align="center">
+  
+|Date|Title|Agency|
+|----|-----|-----|
+|2026|KT CLOUD TECH UP 백엔드 과정|KT Cloud & groom|
+
+</div>
+
+</section>
+
+
 
 <div align='center'>
 
@@ -94,7 +105,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minter-v1&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
 
-</div
+</div>
 
 
 <section align='center'>
