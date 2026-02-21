@@ -98,6 +98,14 @@
 
 </section>
 
+# Contact
+
+<div style="display: inline;">
+<a href="mailto:adf5858@naver.com">
+<img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/>
+</a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
 
 <div align='center'>
