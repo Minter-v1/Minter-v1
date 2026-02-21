@@ -105,6 +105,11 @@
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/>
 </a>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://velog.io/@minter_v1">
+<img src="https://velog-readme-stats.vercel.app/api/badge?name=minter_v1"/>
+</a>
+  
 </div>
 
 
