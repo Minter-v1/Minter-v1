@@ -90,9 +90,11 @@
 
 <div align="center">
   
-|Date|Title|Agency|
-|:----:|:-----:|:-----:|
-|2026|KT CLOUD TECH UP 백엔드 과정|KT Cloud & groom|
+|Date|Title|Agency|Note|
+|:----:|:-----:|:-----:|:--:|
+|2025|한밭대 네이버 클라우드 Associate 과정|Naver Cloud/한밭대||
+|2026.01.14 ~ 2026.01.23|한밭대X건양대 네이버 클라우드 Advanced 과정|Naver Cloud/한밭대/건양대|최우수 수료생|
+|2026.03.17 ~ |KT CLOUD TECH UP 백엔드 과정|KT Cloud & groom|
 
 </div>
 
